@@ -1,0 +1,29 @@
+﻿Build started 25-11-2020 00:09:29.
+     1>Project "C:\Users\aryam\Desktop\170101011_4\170101011_kmeans\kmeans\kmeans\kmeans.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\kmeans.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\VS-IITG\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\kmeans.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\VS-IITG\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\kmeans.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt kmeans.cpp
+         kmeans.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\kmeans.exe.embed.manifest.res" Debug\kmeans_manifest.rc 
+       Link:
+         d:\VS-IITG\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\aryam\Desktop\170101011_4\170101011_kmeans\kmeans\Debug\kmeans.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\kmeans.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\aryam\Desktop\170101011_4\170101011_kmeans\kmeans\Debug\kmeans.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\aryam\Desktop\170101011_4\170101011_kmeans\kmeans\Debug\kmeans.lib" /MACHINE:X86 Debug\kmeans.exe.embed.manifest.res
+         Debug\kmeans.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\kmeans.exe.embed.manifest" /manifest Debug\kmeans.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         kmeans.vcxproj -> C:\Users\aryam\Desktop\170101011_4\170101011_kmeans\kmeans\Debug\kmeans.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\kmeans.unsuccessfulbuild".
+         Touching "Debug\kmeans.lastbuildstate".
+     1>Done Building Project "C:\Users\aryam\Desktop\170101011_4\170101011_kmeans\kmeans\kmeans\kmeans.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.86

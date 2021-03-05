@@ -1,0 +1,270 @@
+Iteration number: 1
+Cluster Number: 0 has 330 vectors 
+Cluster Number: 1 has 1367 vectors 
+Cluster Number: 2 has 332 vectors 
+Cluster Number: 3 has 709 vectors 
+Cluster Number: 4 has 151 vectors 
+Cluster Number: 5 has 1061 vectors 
+Cluster Number: 6 has 966 vectors 
+Cluster Number: 7 has 1424 vectors 
+
+Iteration number: 2
+Cluster Number: 0 has 524 vectors 
+Cluster Number: 1 has 1302 vectors 
+Cluster Number: 2 has 380 vectors 
+Cluster Number: 3 has 602 vectors 
+Cluster Number: 4 has 173 vectors 
+Cluster Number: 5 has 1093 vectors 
+Cluster Number: 6 has 1047 vectors 
+Cluster Number: 7 has 1219 vectors 
+
+Iteration number: 3
+Cluster Number: 0 has 529 vectors 
+Cluster Number: 1 has 1279 vectors 
+Cluster Number: 2 has 415 vectors 
+Cluster Number: 3 has 587 vectors 
+Cluster Number: 4 has 195 vectors 
+Cluster Number: 5 has 1099 vectors 
+Cluster Number: 6 has 1049 vectors 
+Cluster Number: 7 has 1187 vectors 
+
+Iteration number: 4
+Cluster Number: 0 has 503 vectors 
+Cluster Number: 1 has 1266 vectors 
+Cluster Number: 2 has 426 vectors 
+Cluster Number: 3 has 594 vectors 
+Cluster Number: 4 has 210 vectors 
+Cluster Number: 5 has 1105 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1183 vectors 
+
+Iteration number: 5
+Cluster Number: 0 has 493 vectors 
+Cluster Number: 1 has 1244 vectors 
+Cluster Number: 2 has 437 vectors 
+Cluster Number: 3 has 607 vectors 
+Cluster Number: 4 has 218 vectors 
+Cluster Number: 5 has 1105 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1183 vectors 
+
+Iteration number: 6
+Cluster Number: 0 has 480 vectors 
+Cluster Number: 1 has 1228 vectors 
+Cluster Number: 2 has 460 vectors 
+Cluster Number: 3 has 601 vectors 
+Cluster Number: 4 has 230 vectors 
+Cluster Number: 5 has 1105 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1183 vectors 
+
+Iteration number: 7
+Cluster Number: 0 has 473 vectors 
+Cluster Number: 1 has 1219 vectors 
+Cluster Number: 2 has 480 vectors 
+Cluster Number: 3 has 584 vectors 
+Cluster Number: 4 has 246 vectors 
+Cluster Number: 5 has 1102 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1183 vectors 
+
+Iteration number: 8
+Cluster Number: 0 has 475 vectors 
+Cluster Number: 1 has 1211 vectors 
+Cluster Number: 2 has 500 vectors 
+Cluster Number: 3 has 564 vectors 
+Cluster Number: 4 has 259 vectors 
+Cluster Number: 5 has 1099 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1179 vectors 
+
+Iteration number: 9
+Cluster Number: 0 has 474 vectors 
+Cluster Number: 1 has 1205 vectors 
+Cluster Number: 2 has 528 vectors 
+Cluster Number: 3 has 538 vectors 
+Cluster Number: 4 has 270 vectors 
+Cluster Number: 5 has 1097 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1175 vectors 
+
+Iteration number: 10
+Cluster Number: 0 has 475 vectors 
+Cluster Number: 1 has 1197 vectors 
+Cluster Number: 2 has 552 vectors 
+Cluster Number: 3 has 506 vectors 
+Cluster Number: 4 has 287 vectors 
+Cluster Number: 5 has 1097 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1173 vectors 
+
+Iteration number: 11
+Cluster Number: 0 has 473 vectors 
+Cluster Number: 1 has 1186 vectors 
+Cluster Number: 2 has 560 vectors 
+Cluster Number: 3 has 489 vectors 
+Cluster Number: 4 has 310 vectors 
+Cluster Number: 5 has 1097 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1172 vectors 
+
+Iteration number: 12
+Cluster Number: 0 has 473 vectors 
+Cluster Number: 1 has 1170 vectors 
+Cluster Number: 2 has 567 vectors 
+Cluster Number: 3 has 475 vectors 
+Cluster Number: 4 has 334 vectors 
+Cluster Number: 5 has 1096 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1172 vectors 
+
+Iteration number: 13
+Cluster Number: 0 has 473 vectors 
+Cluster Number: 1 has 1144 vectors 
+Cluster Number: 2 has 580 vectors 
+Cluster Number: 3 has 466 vectors 
+Cluster Number: 4 has 357 vectors 
+Cluster Number: 5 has 1095 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1172 vectors 
+
+Iteration number: 14
+Cluster Number: 0 has 473 vectors 
+Cluster Number: 1 has 1111 vectors 
+Cluster Number: 2 has 613 vectors 
+Cluster Number: 3 has 450 vectors 
+Cluster Number: 4 has 376 vectors 
+Cluster Number: 5 has 1092 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1172 vectors 
+
+Iteration number: 15
+Cluster Number: 0 has 473 vectors 
+Cluster Number: 1 has 1081 vectors 
+Cluster Number: 2 has 647 vectors 
+Cluster Number: 3 has 429 vectors 
+Cluster Number: 4 has 394 vectors 
+Cluster Number: 5 has 1091 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1172 vectors 
+
+Iteration number: 16
+Cluster Number: 0 has 473 vectors 
+Cluster Number: 1 has 1057 vectors 
+Cluster Number: 2 has 672 vectors 
+Cluster Number: 3 has 412 vectors 
+Cluster Number: 4 has 413 vectors 
+Cluster Number: 5 has 1088 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1172 vectors 
+
+Iteration number: 17
+Cluster Number: 0 has 472 vectors 
+Cluster Number: 1 has 1033 vectors 
+Cluster Number: 2 has 705 vectors 
+Cluster Number: 3 has 390 vectors 
+Cluster Number: 4 has 432 vectors 
+Cluster Number: 5 has 1083 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1172 vectors 
+
+Iteration number: 18
+Cluster Number: 0 has 466 vectors 
+Cluster Number: 1 has 987 vectors 
+Cluster Number: 2 has 743 vectors 
+Cluster Number: 3 has 380 vectors 
+Cluster Number: 4 has 458 vectors 
+Cluster Number: 5 has 1081 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1172 vectors 
+
+Iteration number: 19
+Cluster Number: 0 has 460 vectors 
+Cluster Number: 1 has 935 vectors 
+Cluster Number: 2 has 777 vectors 
+Cluster Number: 3 has 374 vectors 
+Cluster Number: 4 has 486 vectors 
+Cluster Number: 5 has 1081 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1174 vectors 
+
+Iteration number: 20
+Cluster Number: 0 has 452 vectors 
+Cluster Number: 1 has 897 vectors 
+Cluster Number: 2 has 804 vectors 
+Cluster Number: 3 has 370 vectors 
+Cluster Number: 4 has 511 vectors 
+Cluster Number: 5 has 1079 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1174 vectors 
+
+Iteration number: 21
+Cluster Number: 0 has 444 vectors 
+Cluster Number: 1 has 847 vectors 
+Cluster Number: 2 has 848 vectors 
+Cluster Number: 3 has 369 vectors 
+Cluster Number: 4 has 526 vectors 
+Cluster Number: 5 has 1078 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1175 vectors 
+
+Iteration number: 22
+Cluster Number: 0 has 440 vectors 
+Cluster Number: 1 has 795 vectors 
+Cluster Number: 2 has 897 vectors 
+Cluster Number: 3 has 361 vectors 
+Cluster Number: 4 has 542 vectors 
+Cluster Number: 5 has 1076 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1176 vectors 
+
+Iteration number: 23
+Cluster Number: 0 has 437 vectors 
+Cluster Number: 1 has 760 vectors 
+Cluster Number: 2 has 918 vectors 
+Cluster Number: 3 has 364 vectors 
+Cluster Number: 4 has 556 vectors 
+Cluster Number: 5 has 1076 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1176 vectors 
+
+Iteration number: 24
+Cluster Number: 0 has 437 vectors 
+Cluster Number: 1 has 732 vectors 
+Cluster Number: 2 has 926 vectors 
+Cluster Number: 3 has 372 vectors 
+Cluster Number: 4 has 570 vectors 
+Cluster Number: 5 has 1074 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1176 vectors 
+
+Iteration number: 25
+Cluster Number: 0 has 436 vectors 
+Cluster Number: 1 has 707 vectors 
+Cluster Number: 2 has 934 vectors 
+Cluster Number: 3 has 381 vectors 
+Cluster Number: 4 has 580 vectors 
+Cluster Number: 5 has 1073 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1176 vectors 
+
+Iteration number: 26
+Cluster Number: 0 has 435 vectors 
+Cluster Number: 1 has 682 vectors 
+Cluster Number: 2 has 953 vectors 
+Cluster Number: 3 has 385 vectors 
+Cluster Number: 4 has 584 vectors 
+Cluster Number: 5 has 1072 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1176 vectors 
+
+Iteration number: 27
+Cluster Number: 0 has 435 vectors 
+Cluster Number: 1 has 664 vectors 
+Cluster Number: 2 has 964 vectors 
+Cluster Number: 3 has 387 vectors 
+Cluster Number: 4 has 589 vectors 
+Cluster Number: 5 has 1072 vectors 
+Cluster Number: 6 has 1053 vectors 
+Cluster Number: 7 has 1176 vectors 
+
